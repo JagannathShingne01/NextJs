@@ -51,7 +51,7 @@ export default async function handler(
     <p>Contact Email: ${req.body.email} </p>
 
     <p> Regards, </p>
-    <p> Strada </p>
+    <p> Jagannath Shingne </p>
     `,
   };
 
